@@ -19,7 +19,7 @@
 		transition: all 0.3s ease-in-out;
 	}
 	#container {
-		background-repeat: no-repeat !important; 
+		background-repeat: no-repeat !important;
 		background-position: center 30% !important;
 		background-size: cover !important;
 	  	background-size: cover !important;
@@ -74,7 +74,8 @@
 		overflow: hidden;
 	}
 	#banner {
-		background-repeat: no-repeat !important; 
+		background-image: url("b1.png");
+		background-repeat: no-repeat !important;
 		background-position: center 20% !important;
 		background-size: cover !important;
 		box-shadow: 0px 42px 25px -28px rgba(0, 0, 0, 0.5) !important;
@@ -132,7 +133,7 @@
 		width: 100%;
 		height: 45px;
 		line-height: 45px;
-		position: absolute; 
+		position: absolute;
 		bottom: 0px !important;
 	}
 
@@ -155,7 +156,7 @@
 		text-transform: lowercase !important;
 	}
 	.button {
-		position: absolute; 
+		position: absolute;
 		right: -10px;
 		bottom: -16px;
 	}
@@ -166,4 +167,3 @@
 		font-family: "Montserrat";
 		font-weight: bold;
 	}
-
