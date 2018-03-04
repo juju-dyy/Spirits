@@ -3,7 +3,7 @@
 	}
 	html,
 	body {
-		background-image: url("bg1.png");
+		background: #242328;
 	 	height: 100% !important;
 	    	overflow: hidden !important;
 	    	margin: 0;
